@@ -20,6 +20,10 @@
  * takes a file, a disk image and a file name (fName) as input. It looks 
  * for fName in the disk image and if it exists, extract() will extract all of 
  * its content to a separate file and save it to local disk.
+ * 
+ * TODO: this code needs to traverse linked list around line 60.
+ *
+ *
  *
  **/
 
